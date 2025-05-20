@@ -1,6 +1,6 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-# DEVELOPED BY: Karthikeyan R
-# REGISTER NO: 212222240045
+# DEVELOPED BY: Jeyabalan T
+# REGISTER NO: 212222240040
 ### Date: 
 
 
